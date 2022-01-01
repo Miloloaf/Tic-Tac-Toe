@@ -1,7 +1,7 @@
-import { Playarea } from './components/Playarea'
+import { PlayArea } from './components/Playarea.js'
 
 function App() {
-  return <Playarea></Playarea>
+  return <PlayArea></PlayArea>
 }
 
 export default App
